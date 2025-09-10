@@ -1,13 +1,13 @@
 # R Submissions Pilot 5 ECTD Package
 
-2025-09-08T17:06:44+00:00
+2025-09-10T17:27:35+00:00
 
 > Do not include `README.md` and `.gitignore` files into the final
 > submission.
 
 ## Overview
 
-The objective of the R Consortium R Submission Pilot 3 Project is to
+The objective of the R Consortium R Submission Pilot 5 Project is to
 test the concept that an R-language based submission package can meet
 the needs and the expectations of the FDA reviewers, including assessing
 code review and analyses reproducibility. All submission materials and
@@ -115,7 +115,7 @@ Other files: (**Do not include in eCTD package**)
 ## News
 
 The ECTD bundle and associated compiled application archive were last
-rendered on 2025-09-08T17:06:44+00:00 .
+rendered on 2025-09-10T17:27:35+00:00 .
 
 ## Questions
 
